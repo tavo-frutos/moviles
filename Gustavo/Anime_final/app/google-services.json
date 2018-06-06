@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "642686970527",
+    "firebase_url": "https://final-eddf7.firebaseio.com",
+    "project_id": "final-eddf7",
+    "storage_bucket": "final-eddf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642686970527:android:65aaf1663182abe6",
+        "android_client_info": {
+          "package_name": "com.example.gustavo.anime_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642686970527-i3gklsucl05darc3fpqipg7c568j1ccn.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "642686970527-i3gklsucl05darc3fpqipg7c568j1ccn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7ArUDTl5r9vEk59tTYMswcfu6wKDkPVg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
