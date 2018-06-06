@@ -21,21 +21,26 @@
             android:layout_width="match_parent"
             android:layout_height="73dp"
             android:layout_weight="1"
-            android:text="TextView" />
+            android:text="TextView"
+            android:textSize="8pt"/>
 
         <TextView
             android:id="@+id/precio"
             android:layout_width="match_parent"
             android:layout_height="72dp"
             android:layout_weight="1"
-            android:text="TextView" />
+            android:text="TextView"
+            android:textSize="8pt"
+            />
 
         <TextView
             android:id="@+id/cantidad"
             android:layout_width="match_parent"
             android:layout_height="72dp"
             android:layout_weight="1"
-            android:text="TextView" />
+            android:text="TextView"
+            android:textSize="8pt"
+            />
 
         <Button
             android:id="@+id/button5"
